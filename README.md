@@ -4,11 +4,6 @@
   Google Books API powered React application
 </p>
 
-## Table of Contents
-
-- [Feedback](#feedback)
-- [Build Process](#build-process)
-
 ## Features
 
 A few of the things you can do with Google Books React:
